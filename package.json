@@ -1,0 +1,16 @@
+{
+  "name": "nw",
+  "version": "1.0.0",
+  "description": "Nightwatch project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "dependencies": {
+    "nightwatch": "^2.1.0",
+    "chromedriver": "^127.0.0"
+  },
+  "devDependencies": {}
+}
+
+
