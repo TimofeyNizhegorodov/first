@@ -7,7 +7,7 @@ const pageCommands = {
 };
 
 module.exports = {
-    url: 'http://testshop.sedtest-school.ru',
+    url: 'http://testshop.sedtest-school.ru/',
     commands: [pageCommands],
     elements: {
         searchBar: {
